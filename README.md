@@ -1,5 +1,6 @@
 # pushogi
 
+ ***work-in-progress***
 JavaScript shogi board pushogi.
 
 ## smaple page
